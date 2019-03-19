@@ -27,6 +27,7 @@ a:hover h3{
 	height: 100px;
 	width: 100%;
 	background: black;
+	position: fixed;
 }
 #infoDireita{
 	width: 60%;
